@@ -1,0 +1,153 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cineworld - Renfrew Street
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: PRIDE Season : Priscilla, Queen Of The Desert 30th
+Showtimes: 19:00, 19:30
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Arcadian
+Showtimes: 14:00, 20:45
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Face off 7: One Wish (Vietnamese)
+Showtimes: 16:30, 19:40
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Inside Out 2
+Showtimes: 13:00, 15:30, 18:00, 13:40, 14:30, 16:10, 17:00, 19:30, 14:45, 17:15, 19:45, 16:30, 17:30
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Kudi Haryane Val Di (Punjabi)
+Showtimes: 19:10
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Unsung Hero
+Showtimes: 14:10, 19:20
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: The Dead Don't Hurt
+Showtimes: 13:40, 20:10
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: The Watched
+Showtimes: 13:10, 15:40, 18:20, 20:50
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Bad Boys: Ride Or Die
+Showtimes: 13:20, 16:10, 13:40, 19:00, 14:40, 17:30, 20:20, 15:10, 18:00, 16:50, 19:50, 20:40
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: STING
+Showtimes: 14:20, 20:50
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Furiosa : A Mad Max Saga
+Showtimes: 13:20, 16:40, 20:00
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: The Garfield Movie
+Showtimes: 13:10, 15:40, 16:50
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: IF
+Showtimes: 13:00, 15:30, 16:40, 18:00
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: Kingdom Of The Planet Of The Apes
+Showtimes: 13:00, 16:20, 19:40
+----------------------------------------
+Location: Cineworld - Renfrew Street
+Title: The Fall Guy
+Showtimes: 14:30, 18:00, 20:30
+----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cineworld - Silverburn
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: PRIDE Season : Priscilla, Queen Of The Desert 30th
+Showtimes: 19:30
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Arcadian
+Showtimes: 13:00, 21:00
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Chandu Champion (Hindi)
+Showtimes: 20:00
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Freud's Last Session
+Showtimes: 13:40, 20:20
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Inside Out 2
+Showtimes: 13:00, 14:30, 15:30, 16:00, 17:00, 17:30, 18:00, 18:30, 19:30, 20:30, 14:00, 16:30
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: The Dead Don't Hurt
+Showtimes: 13:00
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: The Watched
+Showtimes: 15:00, 17:50, 20:30
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Bad Boys: Ride Or Die
+Showtimes: 13:50, 15:10, 16:50, 18:00, 19:50, 20:50, 19:00
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Furiosa : A Mad Max Saga
+Showtimes: 14:20
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: The Garfield Movie
+Showtimes: 15:20, 17:50
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: IF
+Showtimes: 14:50, 17:20, 20:00
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: Kingdom Of The Planet Of The Apes
+Showtimes: 13:00, 16:20, 19:40
+----------------------------------------
+Location: Cineworld - Silverburn
+Title: The Fall Guy
+Showtimes: 16:40
+----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cineworld - Parkhead
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: PRIDE Season : Priscilla, Queen Of The Desert 30th
+Showtimes: 19:30
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: Inside Out 2
+Showtimes: 13:00, 15:00, 15:30, 16:40, 17:30, 18:00, 20:00
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: The Watched
+Showtimes: 13:00, 20:30
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: Bad Boys: Ride Or Die
+Showtimes: 15:00, 17:45, 19:10, 20:20
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: Furiosa : A Mad Max Saga
+Showtimes: 13:20, 20:20
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: The Garfield Movie
+Showtimes: 14:30
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: IF
+Showtimes: 15:20, 17:50
+----------------------------------------
+Location: Cineworld - Parkhead
+Title: Kingdom Of The Planet Of The Apes
+Showtimes: 13:15, 16:30, 19:50
+----------------------------------------
